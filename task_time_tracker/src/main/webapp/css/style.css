@@ -1,0 +1,25 @@
+.btn {
+    display: inline-block;
+    background: #99F0D8;
+    color: black;
+    padding: 0.5rem 0.5rem;
+    text-decoration: none;
+    border-radius: 3px;
+}
+
+.errorMessage{
+    color:red;
+}
+
+.navbar-brand{
+    color: #F0CA65;
+    font-weight: bold;
+}
+
+body{
+    background: #eae6e0;
+}
+
+.form_input.error{
+    box-shadow: 0 0 15px red;
+}
