@@ -19,7 +19,6 @@
 * HTML
 * CSS
 * AJAX
-* jQuery
 * BootStrap
 * JSP 
 * JSTL
